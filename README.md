@@ -197,3 +197,17 @@ The default config file for the players.
 
 ### `config-z.json`
 An example config file for players in Chinese.
+
+## Citation
+If you use this codebase, or otherwise found this work valuable, please cite:
+```
+@software{TangyKiwi,
+  author={Kevin Lin},
+  title={BluffMind},
+  year={2025},
+  publisher={GitHub},
+  journal={GitHub Repository},
+  howpublished={\url{https://github.com/TangyKiwi/BluffMind},
+  commit={7e5a9316dea2075f241d168c01d4978b0b607222}
+}
+```
