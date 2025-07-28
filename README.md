@@ -3,7 +3,7 @@
 BluffMind is a LLM powered program featuring the card game "Liar's Deck" from [Liar's Bar](https://store.steampowered.com/app/3097560/Liars_Bar/). The game has five actors: one dealer and four players, whom all can be controlled by their own LLM respectively. 
 
 <p align="center" width="100%">
-    <img width="588" height="520" alt="agentdealer drawio" src="https://github.com/user-attachments/assets/a623cfd9-1ea0-4a4d-a50d-f64618c27b46" />
+    <img width="601" height="519" alt="agentdealer drawio" src="https://github.com/user-attachments/assets/d0aafad6-179f-4ccb-93b5-329052d1795f" />
 </p>
 
 The dealer is an agent who deals the cards, directs the players, and determines game processes live. The agent can see each players' cards and prompt Russian Roulette as necessary. Each player decides how to play based on cards in their hands, current game status, and their persona settings. They are also aware of other players in the game and their taunts, however of course, do not know their hands, played cards, or Russian Roulette position. The game runs autonomously and automatically, with all actors making their own decisions and taunting each other, in English or Chinese.
