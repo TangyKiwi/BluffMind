@@ -1,0 +1,6 @@
+python-dotenv
+openai
+ollama
+soundfile
+playsound==1.2.2
+kokoro

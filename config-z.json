@@ -1,0 +1,33 @@
+{
+    "language": "z",
+    "players": [
+        {
+            "name": "嫦娥",
+            "model": "google/gemini-2.5-flash",
+            "persona": "",
+            "voice": "zf_xiaobei",
+            "aggro": 50
+        },
+        {
+            "name": "悟空",
+            "model": "google/gemini-2.5-flash",
+            "persona": "",
+            "voice": "zm_yunxi",
+            "aggro": 50
+        },
+        {
+            "name": "白骨精",
+            "model": "google/gemini-2.5-flash",
+            "persona": "",
+            "voice": "zf_xiaoni",
+            "aggro": 50
+        },
+        {
+            "name": "八戒",
+            "model": "google/gemini-2.5-flash",
+            "persona": "",
+            "voice": "zm_yunjian",
+            "aggro": 50
+        }
+    ]
+}
