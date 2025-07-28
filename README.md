@@ -12,11 +12,11 @@ Each player can be configured to use online model serving provided by [OpenRoute
 
 ## English Demo
 
-
+https://github.com/user-attachments/assets/1df897fd-63a6-4a90-9511-1a585374c266
 
 ## Chinese Demo
 
-
+https://github.com/user-attachments/assets/aff3929e-d8b5-4259-9348-e09e4aadfe65
 
 ## Installation
 ### 1) Python environment setup
