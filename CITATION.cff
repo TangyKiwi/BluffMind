@@ -1,0 +1,9 @@
+@software{TangyKiwi,
+  author={Kevin Lin},
+  title={BluffMind},
+  year={2025},
+  publisher={GitHub},
+  journal={GitHub Repository},
+  howpublished={\url{https://github.com/TangyKiwi/BluffMind},
+  commit={7e5a9316dea2075f241d168c01d4978b0b607222}
+}
