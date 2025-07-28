@@ -1,3 +1,8 @@
+# Copyright (c) 2025 Kevin Lin
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
 from rich.layout import Layout
 from rich.panel import Panel
 from rich.table import Table
