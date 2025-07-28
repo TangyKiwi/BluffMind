@@ -12,7 +12,11 @@ Each player can be configured to use online model serving provided by [OpenRoute
 
 ## English Demo
 
+<video src="https://raw.githubusercontent.com/TangyKiwi/BluffMind/main/BM-Demo-English-c.mp4" controls></video>
+
 ## Chinese Demo
+
+<video src="https://raw.githubusercontent.com/TangyKiwi/BluffMind/main/BM-Demo-Chinese-c.mp4>" controls></video>
 
 ## Installation
 ### 1) Python environment setup
